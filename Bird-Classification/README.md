@@ -52,7 +52,7 @@ API ini mengharapkan file gambar sebagai input. Gambar harus dalam salah satu fo
 #### Contoh Permintaan
 
 ```bash
-curl -X POST -F "file=@D:\\images\\african firefinch.jpeg" https://bird-classification-mentor.1hv42jn51v17.us-east.codeengine.appdomain.cloud/predict
+curl -X POST -F "file=@D:\\images\\bush turkey.jpeg" https://bird-classification-mentor.1hv42jn51v17.us-east.codeengine.appdomain.cloud/predict
 ```
 
 #### respon
